@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@arshad/gatsby-theme-phoenix@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@arshad/gatsby-theme-phoenix/-/gatsby-theme-phoenix-0.0.1.tgz#167e457a8a697790d57cb9983373ed165c6e8400"
-  integrity sha512-6FQdJY4m1ebKo8wvXpo9iB4bOAIVOlXP13z7l92ucNW80G5fsdEHnSj344Bvi3I1CHCzaCbvH37YlvBXOvSc8w==
+"@arshad/gatsby-theme-phoenix@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@arshad/gatsby-theme-phoenix/-/gatsby-theme-phoenix-1.0.0.tgz#8410cabdc125439114728643510ec1f8cd9ea07d"
+  integrity sha512-tX0ObO6gtkp6Gdo7Lw4wHasDzSJr7d3raUmEZB8YwFIBJWTbq9n6KCn3sZJ87cuYhxWXwHIgL7X+dzvCYUs57A==
   dependencies:
     "@mdx-js/mdx" "^1.5.1"
     "@mdx-js/react" "^1.5.1"

@@ -12,7 +12,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@arshad/gatsby-theme-phoenix": "^0.0.1",
+    "@arshad/gatsby-theme-phoenix": "^1.0.0",
     "gatsby": "^2.13.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
