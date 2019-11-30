@@ -1,20 +1,46 @@
 {
+  "name": "@arshad/gatsby-starter-phoenix",
+  "version": "1.0.1",
   "private": true,
-  "name": "phoenix",
-  "version": "0.0.1",
   "author": "arshad <arshad@chummun.com>",
   "license": "MIT",
   "starter-name": "gatsby-starter-phoenix",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-starter",
+    "gatsby-starter-phoenix",
+    "blog",
+    "portfolio",
+    "podcast"
+  ],
+  "bugs": {
+    "url": "https://github.com/arshad/gatsby-themes/issues"
+  },
+  "homepage": "https://github.com/arshad/gatsby-themes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arshad/gatsby-starter-phoenix.git"
+  },
   "scripts": {
     "build": "gatsby build",
     "start": "gatsby develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "dev": "gatsby clean && gatsby develop",
+    "preview": "gatsby build && gatsby serve"
+  },
+  "devDependencies": {
+    "gatsby": "^2.18.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
   },
   "dependencies": {
-    "@arshad/gatsby-theme-phoenix": "^1.0.0",
-    "gatsby": "^2.13.3",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "@arshad/gatsby-theme-blog-core": "^1.0.1",
+    "@arshad/gatsby-theme-page-core": "^1.0.1",
+    "@arshad/gatsby-theme-phoenix": "^1.0.1",
+    "@arshad/gatsby-theme-photo-core": "^1.0.1",
+    "@arshad/gatsby-theme-podcast-core": "^1.0.1",
+    "@arshad/gatsby-theme-portfolio-core": "^1.0.1"
   }
 }
