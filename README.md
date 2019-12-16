@@ -12,7 +12,7 @@ A Gatsby starter to kick off a site using the <a href="https://github.com/arshad
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/BufJgj8.png" alt="Phoenix preview" />
+  <img src="https://arshad.io/uploads/gatsby-theme-phoenix-screenshot.jpg" alt="Phoenix preview" />
 </p>
 
 <h3 align="center"><code>gatsby new site arshad/gatsby-starter-phoenix</code></h3>
