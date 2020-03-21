@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.5](https://github.com/arshad/gatsby-starter-phoenix/compare/@arshad/gatsby-starter-phoenix@1.1.4...@arshad/gatsby-starter-phoenix@1.1.5) (2020-03-21)
+
+**Note:** Version bump only for package @arshad/gatsby-starter-phoenix
+
+
+
+
+
 ## [1.1.4](https://github.com/arshad/gatsby-starter-phoenix/compare/@arshad/gatsby-starter-phoenix@1.1.3...@arshad/gatsby-starter-phoenix@1.1.4) (2020-03-15)
 
 **Note:** Version bump only for package @arshad/gatsby-starter-phoenix
