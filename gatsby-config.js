@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Phoenix.`,
     description: `A personal blogging theme for Gatsby with great typography and dark mode.`,
-    siteUrl: process.env.SITE_URL,
+    siteUrl: process.env.SITE_URL || `http://localhost`,
     startUrl: `/`,
     copyright: `© YYYY Phoenix. All rights reserved.`,
     icon: `src/images/icon.png`,
