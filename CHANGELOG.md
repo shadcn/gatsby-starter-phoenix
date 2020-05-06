@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.7](https://github.com/arshad/gatsby-starter-phoenix/compare/@arshad/gatsby-starter-phoenix@1.1.6...@arshad/gatsby-starter-phoenix@1.1.7) (2020-05-06)
+
+
+### Bug Fixes
+
+* **phoenix:** fix typo in phoenix starter ([a8dc508](https://github.com/arshad/gatsby-starter-phoenix/commit/a8dc50842986a7f87976d3bc3fdc99c53aa7e7f8))
+
+
+
+
+
 ## [1.1.6](https://github.com/arshad/gatsby-starter-phoenix/compare/@arshad/gatsby-starter-phoenix@1.1.5...@arshad/gatsby-starter-phoenix@1.1.6) (2020-05-05)
 
 

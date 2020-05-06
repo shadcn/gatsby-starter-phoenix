@@ -23,7 +23,7 @@ module.exports = {
         link: `/podcast`,
       },
       {
-        name: `Porfolio`,
+        name: `Portfolio`,
         link: `/portfolio`,
       },
       {
