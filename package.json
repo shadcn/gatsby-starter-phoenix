@@ -1,6 +1,6 @@
 {
   "name": "@arshad/gatsby-starter-phoenix",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "private": true,
   "author": "arshad <arshad@chummun.com>",
   "license": "MIT",
@@ -38,7 +38,7 @@
   "dependencies": {
     "@arshad/gatsby-theme-blog-core": "^1.2.1",
     "@arshad/gatsby-theme-page-core": "^1.1.6",
-    "@arshad/gatsby-theme-phoenix": "^1.1.7",
+    "@arshad/gatsby-theme-phoenix": "^1.1.8",
     "@arshad/gatsby-theme-photo-core": "^1.1.6",
     "@arshad/gatsby-theme-podcast-core": "^1.1.6",
     "@arshad/gatsby-theme-portfolio-core": "^1.1.6"
